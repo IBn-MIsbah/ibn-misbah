@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi there, I'm Kawnullah Misbahudin!
 
-<!--
-**IBn-MIsbah/ibn-misbah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring **backend developer** passionate about building clean, efficient, and scalable web applications. I enjoy working with backend technologies and APIs, and I’m currently on a journey to become an expert in backend development and DevOps.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ **Backend Development** with Node.js & Express.js  
+- 🧠 **RESTful API Design** with role-based access and authentication  
+- 🗃️ **Databases**: PostgreSQL | MongoDB  
+- ☁️ **Deployment & DevOps Basics** (in progress): Docker, CI/CD, Railway, Render  
+
+## 🌱 Skills & Tools
+
+| Languages        | Tools & Frameworks       | Databases         |
+|------------------|--------------------------|-------------------|
+| JavaScript (ES6) | Node.js, Express.js      | PostgreSQL, MongoDB |
+| HTML, CSS        | Postman, Git & GitHub    |                   |
+
+## 🧩 Current Projects
+
+- ✍️ Building real-world APIs (CRUD, authentication, validation)
+- 🧪 Learning CI/CD and Docker basics for deployment
+- 📈 Improving database design and query optimization
+
+## 📌 Goals
+
+- Become fluent in backend architecture, security, and deployment  
+- Contribute to open-source projects  
+- Land a backend-focused internship  
+
+---
+
+📫 **Let’s connect**  
+- [LinkedIn](https://www.linkedin.com/in/kawnullah-misbahudin-32711a338)  
+- [Portfolio](https://portfolio-gules-nine-20.vercel.app/)  
